@@ -59,7 +59,7 @@ These differences are not captured by scalar descriptors but emerge when we use 
 the-doppelganger-problem/
 │
 ├── notebooks/
-│   └── microstructure_pca_analysis.ipynb
+│   └── doppelgangers_problem.ipynb
 │
 ├── README.md
 ├── requirements.txt
