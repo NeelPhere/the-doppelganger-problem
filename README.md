@@ -50,7 +50,7 @@ This enables analysis of structural variations beyond simple summaries.
 ## Key insight
 
 Microstructures can share similar global statistics while differing in their spatial organization.
-These differences are not captured by scalar descriptors but emerge when we use full field representations.
+These differences are not captured by scalar descriptors but emerge when we use full field representations. How well these differences can be quantified has to be answered by this project.
 
 ---
 
@@ -78,6 +78,8 @@ This project is licensed under the MIT License.
 
 ---
 ## Author
-Neel Patel
-B.Tech, Materials Science & Metallurgical Engineering
-Indian Institute of Technology Hyderabad
+Neel Patel -
+neelpatelhere@gmail.com ; ms24btech11024@iith.ac.in
+
+(B.Tech, Materials Science & Metallurgical Engineering
+Indian Institute of Technology Hyderabad)
