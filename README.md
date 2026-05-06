@@ -50,7 +50,8 @@ This enables analysis of structural variations beyond simple summaries.
 ## Key insight
 
 Microstructures can share similar global statistics while differing in their spatial organization.
-These differences are not captured by scalar descriptors but emerge when we use full field representations. How well these differences can be quantified has to be answered by this project.
+These differences are not captured by scalar descriptors but emerge when we use full field representations. How well these differences can be quantified has to be answered by this project. 
+The two point correlation curve gives us difference in morphology between AC and CH families.
 
 ---
 
