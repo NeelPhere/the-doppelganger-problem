@@ -55,6 +55,24 @@ The two point correlation curve gives us difference in morphology between AC and
 
 ---
 
+# Tech Stack
+
+<div align="center">
+
+| Category | Technologies |
+|----------|--------------|
+| **Language** | Python |
+| **Mathematical tools** | Linear Algebra, Eigen Decomposition |
+| **Scientific computing** | NumPy, SciPy |
+| **Data Handling** | Pandas |
+| **Visualizing** | Matplotlib | 
+| **Version control** | GitHub |
+
+</div>
+
+---
+
+
 ## Structure of this Repository
 ```text
 the-doppelganger-problem/
